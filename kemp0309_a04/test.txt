@@ -1,0 +1,2 @@
+apple banana apple cherry banana apple
+dog cat dog elephant fox dog cat
