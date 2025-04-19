@@ -2,6 +2,8 @@
 
 ## Course Performance
 
+## Final Grade: A-
+
 ### Labs
 | Lab | Mark | Grade |
 | --- | --- | --- |
